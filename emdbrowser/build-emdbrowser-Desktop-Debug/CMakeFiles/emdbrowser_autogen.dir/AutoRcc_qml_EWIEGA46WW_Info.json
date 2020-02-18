@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/smit/Development/emdbrowser/build-emdbrowser-Desktop-Debug/emdbrowser_autogen",
+	"CMAKE_BINARY_DIR" : "/home/smit/Development/emdbrowser/build-emdbrowser-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/smit/Development/emdbrowser/build-emdbrowser-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/smit/Development/emdbrowser/emdbrowser",
+	"CMAKE_SOURCE_DIR" : "/home/smit/Development/emdbrowser/emdbrowser",
+	"INCLUDE_DIR" : "/home/smit/Development/emdbrowser/build-emdbrowser-Desktop-Debug/emdbrowser_autogen/include",
+	"INPUTS" : [ "/home/smit/Development/emdbrowser/emdbrowser/main.qml" ],
+	"LOCK_FILE" : "/home/smit/Development/emdbrowser/build-emdbrowser-Desktop-Debug/CMakeFiles/emdbrowser_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/smit/Development/emdbrowser/build-emdbrowser-Desktop-Debug/CMakeFiles/emdbrowser_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/smit/Development/emdbrowser/emdbrowser/qml.qrc",
+	"VERBOSITY" : 0
+}

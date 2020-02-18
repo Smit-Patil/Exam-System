@@ -1,0 +1,12 @@
+name = VSCC new skin
+description =  Example of a module implementing a new skin for VSCC.
+dependencies[] = vscc
+package = Views
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2016-04-25
+version = "7.x-1.1"
+core = "7.x"
+project = "vscc"
+datestamp = "1461569943"
+

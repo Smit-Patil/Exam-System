@@ -1,0 +1,7 @@
+name = SWhite
+description = Simple white theme design by Smit Patil.
+core = 7.x
+base theme = beginning
+stylesheets[all][] = css/style.css
+
+scripts[] = js/scripts.js
